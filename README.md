@@ -1,0 +1,1 @@
+# requests_ipfs_adaptor
